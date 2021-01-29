@@ -8,3 +8,7 @@ https://www.w3schools.com/colors/colors_picker.asp
 
 W3 Schools Color Scheme
 https://www.w3schools.com/colors/colors_schemes.asp
+
+# Pixel Syth [Super Cool]
+https://pixelsynth.com/
+
